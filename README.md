@@ -1,4 +1,8 @@
 # WhiteWalkers
+
+CS 208 Software Engineering Project
+Course Instructor : Dr. Abhishek Srivastava Sir
+
 <b>AIM</b>
 To design a video game with below mentioned theme and specific parameters.
 
