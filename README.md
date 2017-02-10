@@ -3,8 +3,9 @@
 CS 208 Software Engineering Project</br>
 Course Instructor : Dr. Abhishek Srivastava Sir
 
-<b>AIM</b>
-To design a video game with below mentioned theme and specific parameters.
+<b>Aim</b><br>
+To design a video game with below mentioned theme and parameters and thus help collect <a href='http://iiti.ac.in/people/~sanjrampk/'>Dr. Sanjaram</a> data that will help him in his research at Human Factor and Cognition Lab, IIT Indore.
+<br>
 
 <b>Need of the work</b></br>
 This video game is required to design a study on human visuospatial working memory. We hypothesize that playing the video game based on later-mentioned specific parameters will train and effectively improve the performance of visuospatial components of working memory. There are few psychological test batteries which have these parameters implemented as a training module as well as test batteries. But we assume that presenting these training parameters in the form of video game will more interesting, interactive and then more effective for improving one’s working memory.
@@ -21,4 +22,4 @@ These modules are:
 
 4. Visual puzzle (VP)
 
-<b>Work is on! Unity3d for the rescue! For more details about this, you may view the uploaded SRS document. </b>
+<b>Work is on. Unity3d for the rescue! For more details about this, you may view the uploaded SRS document. </b>
