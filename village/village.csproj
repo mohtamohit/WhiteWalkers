@@ -73,9 +73,6 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
-    <Reference Include="_3VisioShapesClass">
-      <HintPath>Assets\3Visio\Plugins\_3VisioShapesClass.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="village.Plugins.csproj">
@@ -84,14 +81,13 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\3Visio\Plugins\_3Visio_Shape.cs" />
     <Compile Include="Assets\Scripts\GameObject.cs" />
     <Compile Include="Assets\Scripts\cubeGayab.cs" />
     <Compile Include="Assets\Scripts\doorsOpen.cs" />
+    <Compile Include="Assets\Scripts\error.cs" />
     <Compile Include="Assets\Scripts\timer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\3Visio\readme.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
